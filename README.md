@@ -1,6 +1,6 @@
 # Shop_App
 
-A Shop app project using Flutter and Bloc as a state management
+A Basic Shop app project using Flutter and Bloc as a state management
 
 ## [Video for app review](https://screenrec.com/share/D3tO9voueU)
 
