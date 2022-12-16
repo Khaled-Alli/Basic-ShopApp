@@ -2,7 +2,7 @@
 
 A Basic Shop app project using Flutter and Bloc as a state management
 
-## [Video for app review](https://drive.google.com/drive/folders/1ajJYJtyXxf5bjQIxJMmHLeQOG3nWXyN2?usp=sharing)
+## [Video for app review]([https://drive.google.com/drive/folders/1ajJYJtyXxf5bjQIxJMmHLeQOG3nWXyN2?usp=sharing](https://drive.google.com/file/d/1g-tvUFyQ2TXMolrtNxpo8udhr-wEH-Yl/view))
 
 ## Screenshots
 
